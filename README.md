@@ -1,6 +1,9 @@
 # Digital Forensics Notes
 
-Digital forensics and practical notes on incident analysis.
+Practical notes, lab work, and reference materials for digital forensics and incident analysis.
+
+## Purpose
+This repository is a personal learning portfolio for documenting digital forensics workflows, tools, and hands-on practice.
 
 ## Topics
 - [Memory analysis](./01-memory/)
@@ -18,3 +21,10 @@ Digital forensics and practical notes on incident analysis.
 - OSForensics
 - Wireshark
 - Autopsy
+
+## Focus
+- Windows forensics.
+- Incident investigation.
+- Artifact review.
+- Evidence-based analysis.
+- Continuous practice and note-taking.
