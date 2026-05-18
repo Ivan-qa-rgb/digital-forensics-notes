@@ -1,0 +1,22 @@
+# PCAP Analysis
+
+## Goal
+Analyze network traffic and identify suspicious connections or behavior.
+
+## Tools
+- Wireshark
+- Volatility
+
+## What I did
+- reviewed captured network traffic;
+- checked source and destination IP addresses;
+- analyzed protocols and packets;
+- searched for suspicious requests;
+- compared network activity with the incident timeline.
+
+## Result
+- found suspicious network connections;
+- identified signs of unusual traffic.
+
+## Conclusion
+Learned the basics of PCAP analysis.
