@@ -32,8 +32,12 @@ explorer.exe(3484)
 - Network activity linked to the suspicious process
 
 ## Screenshots
+![Explorer activity](./images/explorer.exe-3484.jpg)
+
 ![Process chain](./images/process-chain.png)
+
 ![RWX regions](./images/rwx-regions.png)
+
 ![NetScan result](./images/netscan-result.png)
 
 ## MITRE ATT&CK
