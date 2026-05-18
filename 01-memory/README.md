@@ -32,7 +32,7 @@ explorer.exe(3484)
 - Network activity linked to the suspicious process
 
 ## Screenshots
-![Explorer activity](explorer-3484.jpg)
+![Explorer activity](explorer-3484.png)
 
 
 ## MITRE ATT&CK
