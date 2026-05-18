@@ -31,10 +31,6 @@ explorer.exe(3484)
 - RWX shellcode regions detected
 - Network activity linked to the suspicious process
 
-## Screenshots
-![Explorer activity](explorer-3484.png)
-
-
 ## MITRE ATT&CK
 - T1059.001 — PowerShell
 - TA0002 — Execution
